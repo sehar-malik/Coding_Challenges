@@ -1,13 +1,14 @@
 using System;
 
-namespace ContinousArray
+namespace CodingChallenge
 {
-    class Program
+    public class ContiguousSubArray
     {
-        static void Main(string[] args)
+        public void MainFunction()
         {
             int[] continous = { 14, 12, 70, 15, 99, 65, 21, 90 };
-            int total = 97;
+            Console.WriteLine("Enter Number:");
+            int total = Convert.ToInt32(Console.ReadLine());
             FindTotal(continous, total);
 
         }

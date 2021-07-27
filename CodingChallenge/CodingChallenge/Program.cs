@@ -11,6 +11,8 @@ namespace CodingChallenge
             PrintResult(
                 Permute(new int[] { 1, 2, 3 })
             );
+            ContiguousSubArray contiguousSubArray = new ContiguousSubArray();
+            contiguousSubArray.MainFunction();
         }
 
         static IList<IList<int>> Permute(int[] nums)

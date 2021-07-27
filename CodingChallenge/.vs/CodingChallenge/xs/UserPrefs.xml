@@ -1,18 +1,18 @@
 ﻿<Properties StartupConfiguration="{E9E6AF51-96C9-416C-BF48-29AE43CAFEE5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CodingChallenge/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodingChallenge/ContiguousSubArray.cs">
     <Files>
       <File FileName="CodingChallenge/Program.cs" Line="25" Column="14" />
+      <File FileName="CodingChallenge/ContiguousSubArray.cs" Line="6" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CodingChallenge" expanded="True" selected="True">
-            <Node name="CodingChallenge" expanded="True" />
+          <Node name="CodingChallenge" expanded="True">
+            <Node name="CodingChallenge" expanded="True">
+              <Node name="ContiguousSubArray.cs" selected="True" />
+            </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
