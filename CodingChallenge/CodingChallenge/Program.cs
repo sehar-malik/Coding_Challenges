@@ -13,6 +13,10 @@ namespace CodingChallenge
             );
             ContiguousSubArray contiguousSubArray = new ContiguousSubArray();
             contiguousSubArray.MainFunction();
+            LCS lcs = new LCS();
+            lcs.LCSMethod();
+            MissingElement missingElement = new MissingElement();
+            missingElement.MissingElementMethod();
         }
 
         static IList<IList<int>> Permute(int[] nums)

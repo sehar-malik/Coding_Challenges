@@ -1,15 +1,17 @@
 ﻿<Properties StartupConfiguration="{E9E6AF51-96C9-416C-BF48-29AE43CAFEE5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CodingChallenge/ContiguousSubArray.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodingChallenge/MissingElement.cs">
     <Files>
-      <File FileName="CodingChallenge/Program.cs" Line="25" Column="14" />
-      <File FileName="CodingChallenge/ContiguousSubArray.cs" Line="6" Column="6" />
+      <File FileName="CodingChallenge/Program.cs" Line="16" Column="33" />
+      <File FileName="CodingChallenge/ContiguousSubArray.cs" Line="11" Column="61" />
+      <File FileName="CodingChallenge/LCS.cs" Line="30" Column="31" />
+      <File FileName="CodingChallenge/MissingElement.cs" Line="8" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CodingChallenge" expanded="True">
             <Node name="CodingChallenge" expanded="True">
-              <Node name="ContiguousSubArray.cs" selected="True" />
+              <Node name="MissingElement.cs" selected="True" />
             </Node>
           </Node>
         </State>
