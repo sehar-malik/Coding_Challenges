@@ -15,8 +15,14 @@ namespace CodingChallenge
             contiguousSubArray.MainFunction();
             LCS lcs = new LCS();
             lcs.LCSMethod();
+
+            //Missing Element
             MissingElement missingElement = new MissingElement();
             missingElement.MissingElementMethod();
+
+            //Cirlce Difference 08/11/2021
+            CircleDiff circleDiff = new CircleDiff();
+            circleDiff.CircleDifference();
         }
 
         static IList<IList<int>> Permute(int[] nums)
